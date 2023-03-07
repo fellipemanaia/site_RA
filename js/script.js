@@ -1,6 +1,6 @@
 
 function troca1(){
-    window.location.href = "index1.html"
+    window.location.href = "index.html"
 
 }
 
